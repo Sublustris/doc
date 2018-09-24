@@ -1,0 +1,433 @@
+{
+    "navigation": {
+        "tutorials":
+        [
+            {
+                "name": "Overview",
+                "items": [
+                    {
+                        "path": "/tutorials/getting-started",
+                        "name": "Getting started"
+                    }
+                ]
+            },
+            {
+                "name": "Tutorials",
+                "items": [
+                    {
+                        "path": "/tutorials/side-scroller",
+                        "name": "Side scroller"
+                    },
+                    {
+                        "path": "/tutorials/astronaut",
+                        "name": "Walking astronaut"
+                    },                    
+                    {
+                        "path": "/tutorials/movement",
+                        "name": "Movement"
+                    },
+                    {
+                        "path": "/tutorials/colorslide",
+                        "name": "Colorslide"
+                    },
+                    {
+                        "path": "/tutorials/war-battles",
+                        "name": "War battles"
+                    },
+                    {
+                        "path": "/tutorials/snake",
+                        "name": "Snake"
+                    },
+                    {
+                        "path": "/tutorials/15-puzzle",
+                        "name": "15 puzzle"
+                    },
+                    {
+                        "path": "/tutorials/shadertoy",
+                        "name": "Shadertoy"
+                    },
+                    {
+                        "path": "/tutorials/grading",
+                        "name": "Color grading"
+                    }
+                ]
+            },
+            {
+                "name": "Old tutorials",
+                "items": [
+                    {
+                        "path": "/tutorials/platformer",
+                        "name": "Platformer"
+                    },
+                    {
+                        "path": "/tutorials/runner",
+                        "name": "Runner"
+                    },
+                    {
+                        "path": "/tutorials/magic-link",
+                        "name": "Magic link"
+                    },
+                    {
+                        "path": "/tutorials/car",
+                        "name": "Building a car"
+                    }
+                ]
+            },           
+            {
+                "name": "Code samples",
+                "items": [
+                    {
+                        "path": "https://github.com/defold/defold-examples",
+                        "name": "Defold examples repo"
+                    },
+                    {
+                        "path": "http://britzl.github.io/publicexamples/",
+                        "name": "Britzl's grab bag"
+                    },
+                    {
+                        "path": "https://jcash.github.io/",
+                        "name": "JCash demos"
+                    },
+                    {
+                        "path": "/tutorials/main-menu",
+                        "name": "Main menu"
+                    },
+                    {
+                        "path": "/tutorials/parallax",
+                        "name": "Parallax"
+                    },
+                    {
+                        "path": "/tutorials/hud",
+                        "name": "Hud"
+                    },
+                    {
+                        "path": "/tutorials/level-complete",
+                        "name": "Level complete"
+                    }
+                ]
+            },
+            {
+                "name": "Community resources",
+                "items": [
+                    {
+                        "path": "http://www.gamefromscratch.com/page/Defold-Engine-Tutorial-Series.aspx",
+                        "name": "GFS video tutorials"
+                    },
+                    {
+                        "path": "https://forum.defold.com/t/big-list-of-lua-resources/1586",
+                        "name": "Lua resources"
+                    }
+                ]
+            }
+        ],
+        "manuals":
+        [
+            {
+                "name": "GETTING STARTED",
+                "items": [
+                    {
+                        "path": "/manuals/introduction",
+                        "name": "Introduction"
+                    },
+                    {
+                        "path": "/manuals/install",
+                        "name": "Installing Defold"
+                    },
+                    {
+                        "path": "/manuals/editor",
+                        "name": "The editor"
+                    },
+                    {
+                        "path": "/manuals/community",
+                        "name": "Community pages"
+                    },
+                    {
+                        "path": "/manuals/glossary",
+                        "name": "Glossary"
+                    }                    
+                ]
+            },
+            {
+                "name": "WORKFLOW",
+                "items": [            
+                    {
+                        "path": "/manuals/workflow",
+                        "name": "Workflow"
+                    },
+                    {
+                        "path": "/manuals/hot-reload",
+                        "name": "Hot reloading"
+                    },
+                    {
+                        "path": "/manuals/lua",
+                        "name": "Lua in Defold"
+                    },
+                    {
+                        "path": "/manuals/debugging",
+                        "name": "Debugging"
+                    },
+                    {
+                        "path": "/manuals/profiling",
+                        "name": "Profiling"
+                    },
+                    {
+                        "path": "/manuals/flash",
+                        "name": "Defold for Flash users"
+                    }
+                ]
+            },
+            {
+                "name": "CORE CONCEPTS",
+                "items": [
+                    {
+                        "path": "/manuals/building-blocks",
+                        "name": "Building blocks"
+                    },
+                    {
+                        "path": "/manuals/addressing",
+                        "name": "Addressing"
+                    },
+                    {
+                        "path": "/manuals/message-passing",
+                        "name": "Message passing"
+                    },
+                    {
+                        "path": "/manuals/application-lifecycle",
+                        "name": "Application lifecycle"
+                    }
+                ]
+            },
+            {
+                "name": "ASSETS AND RESOURCES",
+                "items": [
+                    {
+                        "path": "/manuals/animation",
+                        "name": "Animation"
+                    },
+                    {
+                        "path": "/manuals/graphics",
+                        "name": "Graphics"
+                    },
+                    {
+                        "path": "/manuals/resource",
+                        "name": "Resource management"
+                    }
+                ]
+            },
+            {
+                "name": "COMPONENTS",
+                "items": [
+                    {
+                        "path": "/manuals/atlas",
+                        "name": "Atlas"
+                    },                    
+                    {
+                        "path": "/manuals/spine",
+                        "name": "Spine animation"
+                    },
+                    {
+                        "path": "/manuals/spinemodel",
+                        "name": "Spine model"
+                    },
+                    {
+                        "path": "/manuals/model",
+                        "name": "Model"
+                    },
+                    {
+                        "path": "/manuals/particlefx",
+                        "name": "Particle FX"
+                    },
+                    {
+                        "path": "/manuals/physics",
+                        "name": "Physics"
+                    },
+                    {
+                        "path": "/manuals/sound",
+                        "name": "Sound"
+                    },
+                    {
+                        "path": "/manuals/tilemap",
+                        "name": "Tilemap"
+                    },
+                    {
+                        "path": "/manuals/font",
+                        "name": "Font"
+                    },
+                    {
+                        "path": "/manuals/label",
+                        "name": "Label"
+                    },
+                    {
+                        "path": "/manuals/material",
+                        "name": "Material"
+                    },
+                    {
+                        "path": "/manuals/render",
+                        "name": "Render"
+                    },
+                    {
+                        "path": "/manuals/shader",
+                        "name": "Shader"
+                    },
+                    {
+                        "path": "/manuals/factory",
+                        "name": "Factory"
+                    },
+                    {
+                        "path": "/manuals/collection-factory",
+                        "name": "Collection factory"
+                    },
+                    {
+                        "path": "/manuals/collection-proxy",
+                        "name": "Collection proxy"
+                    },
+                    {
+                        "path": "/manuals/camera",
+                        "name": "Camera"
+                    }
+                ]
+            },
+            {
+                "name": "GUI",
+                "items": [
+                    {
+                        "path": "/manuals/gui",
+                        "name": "GUI overview"
+                    },
+                    {
+                        "path": "/manuals/gui-box",
+                        "name": "Box nodes"
+                    },
+                    {
+                        "path": "/manuals/gui-text",
+                        "name": "Text nodes"
+                    },
+                    {
+                        "path": "/manuals/gui-pie",
+                        "name": "Pie nodes"
+                    },
+                    {
+                        "path": "/manuals/gui-spine",
+                        "name": "Spine nodes"
+                    },
+                    {
+                        "path": "/manuals/gui-particlefx",
+                        "name": "ParticleFX nodes"
+                    },
+                    {
+                        "path": "/manuals/gui-template",
+                        "name": "Template nodes"
+                    },
+                    {
+                        "path": "/manuals/gui-script",
+                        "name": "Scripts"
+                    },
+                    {
+                        "path": "/manuals/gui-clipping",
+                        "name": "Clipping"
+                    },
+                    {
+                        "path": "/manuals/gui-layouts",
+                        "name": "Layouts"
+                    }
+                ]
+            },
+            {
+                "name": "GAME LOGIC",
+                "items": [
+                    {
+                        "path": "/manuals/properties",
+                        "name": "Properties"
+                    },
+                    {
+                        "path": "/manuals/script-properties",
+                        "name": "Script properties"
+                    },
+                    {
+                        "path": "/manuals/input",
+                        "name": "Input"
+                    },
+                    {
+                        "path": "/manuals/modules",
+                        "name": "Modules"
+                    }
+                ]
+            },
+            {
+                "name": "PROJECT SETUP",
+                "items": [
+                    {
+                        "path": "/manuals/project-settings",
+                        "name": "Project settings"
+                    },
+                    {
+                        "path": "/manuals/libraries",
+                        "name": "Libraries"
+                    },
+                    {
+                        "path": "/manuals/texture-profiles",
+                        "name": "Texture profiles"
+                    },
+                    {
+                        "path": "/manuals/bob",
+                        "name": "Bob the builder"
+                    },
+                    {
+                        "path": "/manuals/dev-app",
+                        "name": "The mobile dev app"
+                    }
+                ]
+            },
+            {
+                "name": "PLATFORMS",
+                "items": [
+                    {
+                        "path": "/manuals/ios",
+                        "name": "iOS"
+                    },
+                    {
+                        "path": "/manuals/android",
+                        "name": "Android"
+                    },
+                    {
+                        "path": "/manuals/html5",
+                        "name": "HTML5"
+                    },
+                    {
+                        "path": "/manuals/facebook",
+                        "name": "Facebook"
+                    },
+                    {
+                        "path": "/manuals/gameroom",
+                        "name": "Facebook Gameroom"
+                    },
+                    {
+                        "path": "/manuals/instant-games",
+                        "name": "Facebook Instant Games"
+                    },
+                    {
+                        "path": "/manuals/live-update",
+                        "name": "Live update"
+                    }                    
+                ]
+            },
+            {
+                "name": "EXTENSIONS",
+                "items": [
+                    {
+                        "path": "/manuals/extensions",
+                        "name": "Native extensions"
+                    },
+                    {
+                        "path": "/manuals/iap",
+                        "name": "In-app purchases"
+                    },
+                    {
+                        "path": "/manuals/push",
+                        "name": "Push notifications"
+                    }
+                ]
+            }
+        ]
+    }
+}
